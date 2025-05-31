@@ -47,6 +47,6 @@ Make sure you have the following installed:
 - MongoDB running locally (or update URI for cloud DB)
 
 How to run:
-activating the venv using .\env\Scripts\activate 
-to activate backend: cd flaskserver, python server.py
-to activate frontend: cd client, npm run dev
+- activating the venv using .\env\Scripts\activate 
+- to activate backend: cd flaskserver, python server.py
+- to activate frontend: cd client, npm run dev
